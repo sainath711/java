@@ -1,3 +1,4 @@
+//multiple inheritance
 class Parent1{
 }
 class Parent2{
