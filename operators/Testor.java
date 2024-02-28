@@ -3,7 +3,7 @@ class Test{
 	int a=10;
 	int b=20;
 	
-	if(a<b || b<a){
+	if(b<a || a>b){
 		System.out.println("true");
 	}
 	else{
