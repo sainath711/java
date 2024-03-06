@@ -71,8 +71,8 @@ abstract class User{
 		 this.emp_expenses=emp_expenses;
 	 }
 	 public void emp(){
-		 double bal=this.getemp_salary()-this.getemp_expenses();  
-		System.out.println(this.getemp_name() +  this.getemp_id()+" emp bal is:"+bal);
+		 double emp=this.getemp_salary()-this.getemp_expenses();  
+		System.out.println(this.getemp_name() +  this.getemp_id()+" emp bal is:"+emp);
 	 }
 		 
 	 

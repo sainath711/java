@@ -8,6 +8,6 @@ class test{
 	System.out.println("a is smaller");
 	}
 	else
-	system.out.println("b is smaller");
+	System.out.println("b is smaller");
 	}
 }
