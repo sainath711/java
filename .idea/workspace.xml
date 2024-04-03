@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testtwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/InsuffientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/Testimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract/Testtwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Final.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/Testtwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/pack1/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/pack1/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/pack3/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Package/pack3/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Testimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Testthree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/Testtwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/instance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/instance/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access modifiers/instance/Testtwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Testfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Testfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Testtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Testtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/Linkedlist/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/Linkedlist/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/Linkedlist/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/Linkedlist/one.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/Linkedlist/three.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/Linkedlist/two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/arraylist/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/arraylist/five.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/arraylist/four.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/arraylist/one.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/arraylist/six.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/arraylist/three.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/arraylist/two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/one.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFW/two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/InsuffientFundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/LBException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Test10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Test8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testfive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testfive5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testfive5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testsix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testthree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testthree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/Testtwo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Testtwo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/testone1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/testone1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception handling/testone1java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testtwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Multiple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Seven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Testeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Testevenodd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Testfor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Testforeach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Testodd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Testternaryop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/Threedigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/asscending.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/evenodd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/if.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/javac Threedigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/multiple.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/positive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/smallest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/switch1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/conditional/ternary7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/For1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/break.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/dowhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/for.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/for2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/foreach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control flow stmts/itterative/while.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals/four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals/three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals/two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/increment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Testfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface2/Testfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Testimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itachi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/emp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/User1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/User1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/User1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/User2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Account1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/SA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Suoer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/Suoer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/Super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/SuperEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/Testtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/Testtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/constructor/company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/employee1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/employee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Employee1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Testone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/encapsulation/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/Testtwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/encapsulation/employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/employee1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/Testfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/Testfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/Testtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/Testtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/parent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/oop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/permanent_emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/temporary_emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testequal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testequal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testfive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testsix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testsix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testtwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/Testtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Testtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/testfive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/testfour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/testthree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primitive data types/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primitive data types/Testfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Testfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primitive data types/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primitive data types/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primitive data types/Testtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Testtwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/Testfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Testfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/Testone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Testone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/Testthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Testthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/Testtwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Testtwo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eZlgyGqUYAJ9T0CQzwi1GcUwCC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "Application.Testfour.executor": "Run",
+    "Application.Testor.executor": "Run",
+    "Application.Testtwo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Testor">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.Test" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testfour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variables.Testfour" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Testor" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testtwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Testtwo" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Testor" />
+        <item itemvalue="Application.Testfour" />
+        <item itemvalue="Application.Testtwo" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="" />
+      <created>1712120096012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712120096012</updated>
+    </task>
+    <servers />
+  </component>
+</project>
