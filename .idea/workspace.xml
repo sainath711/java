@@ -4,23 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Intellij idea: The entire project is converted into Intellij based project.">
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/arraylist/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/arraylist/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/arraylist/generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/linkedlist/generic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/HashSetPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultmethods/Daoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultmethods/DaoiImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultmethods/TestI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultmethods/TestImplOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultmethods/TestImplThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultmethods/TestImplTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalInterface/calc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalInterface/calc1Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalInterface/calcImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/one.java" afterDir="false" />
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="CFW Basics">
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/assendingof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/desendingof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/divisible236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/divisibleof235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/divisibleof35in100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/evenorodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/factorsof24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/greatestof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/gretestof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/multipleof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/multipleof4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/onetoten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/positiveornot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/sixmultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/threedigitnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashset/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashset/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/queue/priorityqueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/one.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DaoiImpl.executor": "Run",
+    "Application.Divisible.executor": "Run",
     "Application.HashSetPractice.executor": "Run",
     "Application.One.executor": "Run",
     "Application.Test.executor": "Run",
@@ -60,11 +66,30 @@
     "Application.Testor.executor": "Run",
     "Application.Testtwo.executor": "Run",
     "Application.Two.executor": "Run",
+    "Application.assendingof3.executor": "Run",
     "Application.calc1Impl.executor": "Run",
+    "Application.desendingof3.executor": "Run",
+    "Application.divisible236.executor": "Run",
+    "Application.divisibleof235.executor": "Run",
+    "Application.divisibleof35in100.executor": "Run",
+    "Application.evennumber.executor": "Run",
+    "Application.evenorodd.executor": "Run",
+    "Application.factorsof24.executor": "Run",
     "Application.generic.executor": "Run",
     "Application.generic1.executor": "Run",
     "Application.generic2.executor": "Run",
+    "Application.generic3.executor": "Run",
+    "Application.greatestof3.executor": "Run",
+    "Application.gretestof2.executor": "Run",
+    "Application.multipleof3.executor": "Run",
+    "Application.multipleof4.executor": "Run",
     "Application.one.executor": "Run",
+    "Application.onetoten.executor": "Run",
+    "Application.positiveornot.executor": "Run",
+    "Application.priorityqueue.executor": "Run",
+    "Application.sixmultiple.executor": "Run",
+    "Application.threedigitnumber.executor": "Run",
+    "Application.two.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -84,13 +109,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.generic3">
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframeworks.arraylist.Two" />
+  <component name="RunManager" selected="Application.factorsof24">
+    <configuration name="divisibleof35in100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.divisibleof35in100" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframeworks.arraylist.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframeworks.arraylist.generic" />
+    <configuration name="factorsof24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.factorsof24" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframeworks.arraylist.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframeworks.linkedlist.generic1" />
+    <configuration name="multipleof4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.multipleof4" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframeworks.linkedlist.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframeworks.arraylist.generic2" />
+    <configuration name="onetoten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.onetoten" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframeworks.arraylist.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generic3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframeworks.linkedlist.generic3" />
+    <configuration name="sixmultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.sixmultiple" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframeworks.linkedlist.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.generic3" />
-        <item itemvalue="Application.generic1" />
-        <item itemvalue="Application.generic2" />
-        <item itemvalue="Application.generic" />
-        <item itemvalue="Application.Two" />
+        <item itemvalue="Application.factorsof24" />
+        <item itemvalue="Application.sixmultiple" />
+        <item itemvalue="Application.multipleof4" />
+        <item itemvalue="Application.onetoten" />
+        <item itemvalue="Application.divisibleof35in100" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712165343156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CFW Basics">
+      <option name="closed" value="true" />
+      <created>1712300751248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712300751248</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +245,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intellij idea: The entire project is converted into Intellij based project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Intellij idea: The entire project is converted into Intellij based project." />
+    <MESSAGE value="CFW Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="CFW Basics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
