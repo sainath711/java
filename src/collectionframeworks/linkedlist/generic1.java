@@ -11,6 +11,8 @@ public class generic1 {
         A3.add(102);
         System.out.println(A3);
         //A3.add("sai");
+        A3.addFirst(100);
+        System.out.println(A3);
     }
 }
 

@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="CFW Basics">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Divisible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/assendingof3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/desendingof3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/divisible236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/divisibleof235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/divisibleof35in100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/evenorodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/factorsof24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/greatestof3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/gretestof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/multipleof3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/multipleof4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/onetoten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/positiveornot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/sixmultiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/threedigitnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashset/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashset/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/queue/priorityqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashmap/hashmapdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashmap/hashmapdemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticmethods/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticmethods/two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/one.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +65,8 @@
     "Application.generic3.executor": "Run",
     "Application.greatestof3.executor": "Run",
     "Application.gretestof2.executor": "Run",
+    "Application.hashmapdemo.executor": "Run",
+    "Application.hashmapdemo1.executor": "Run",
     "Application.multipleof3.executor": "Run",
     "Application.multipleof4.executor": "Run",
     "Application.one.executor": "Run",
@@ -95,7 +81,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/java",
+    "last_opened_file_path": "C:/js/fakecompany",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -109,20 +95,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.factorsof24">
-    <configuration name="divisibleof35in100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.divisibleof35in100" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hashmapdemo1">
     <configuration name="factorsof24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment.factorsof24" />
       <module name="java" />
@@ -136,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multipleof4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.multipleof4" />
+    <configuration name="hashmapdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionframeworks.hashmap.hashmapdemo" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.*" />
+          <option name="PATTERN" value="collectionframeworks.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="onetoten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.onetoten" />
+    <configuration name="hashmapdemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionframeworks.hashmap.hashmapdemo1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.*" />
+          <option name="PATTERN" value="collectionframeworks.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,13 +148,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticmethods.two" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="staticmethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hashmapdemo1" />
+        <item itemvalue="Application.hashmapdemo" />
+        <item itemvalue="Application.two" />
         <item itemvalue="Application.factorsof24" />
         <item itemvalue="Application.sixmultiple" />
-        <item itemvalue="Application.multipleof4" />
-        <item itemvalue="Application.onetoten" />
-        <item itemvalue="Application.divisibleof35in100" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +203,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712300751248</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Assignment">
+      <option name="closed" value="true" />
+      <created>1712487193312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712487193312</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CFW Basics">
+      <option name="closed" value="true" />
+      <created>1712487259135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712487259135</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CFW Basics">
+      <option name="closed" value="true" />
+      <created>1712487301910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712487301910</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +255,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intellij idea: The entire project is converted into Intellij based project." />
+    <MESSAGE value="Assignment" />
     <MESSAGE value="CFW Basics" />
     <option name="LAST_COMMIT_MESSAGE" value="CFW Basics" />
   </component>
