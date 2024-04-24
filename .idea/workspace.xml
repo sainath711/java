@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="CFW Basics">
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashmap/hashmapdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashmap/hashmapdemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticmethods/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticmethods/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamtwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/UniAdmissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/functionimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/functionimpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/predicateone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/predicatethree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/predicatetwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/school.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/school1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Basic.executor": "Run",
     "Application.DaoiImpl.executor": "Run",
     "Application.Divisible.executor": "Run",
     "Application.HashSetPractice.executor": "Run",
@@ -59,6 +67,8 @@
     "Application.evennumber.executor": "Run",
     "Application.evenorodd.executor": "Run",
     "Application.factorsof24.executor": "Run",
+    "Application.functionimpl.executor": "Run",
+    "Application.functionimpl1.executor": "Run",
     "Application.generic.executor": "Run",
     "Application.generic1.executor": "Run",
     "Application.generic2.executor": "Run",
@@ -72,8 +82,16 @@
     "Application.one.executor": "Run",
     "Application.onetoten.executor": "Run",
     "Application.positiveornot.executor": "Run",
+    "Application.predicateone.executor": "Run",
+    "Application.predicatethree (1).executor": "Run",
+    "Application.predicatethree.executor": "Run",
+    "Application.predicatetwo.executor": "Run",
     "Application.priorityqueue.executor": "Run",
+    "Application.school.executor": "Run",
+    "Application.school1.executor": "Run",
     "Application.sixmultiple.executor": "Run",
+    "Application.streamone.executor": "Run",
+    "Application.streamtwo.executor": "Run",
     "Application.threedigitnumber.executor": "Run",
     "Application.two.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -81,7 +99,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/js/fakecompany",
+    "last_opened_file_path": "C:/java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -95,13 +113,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hashmapdemo1">
-    <configuration name="factorsof24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.factorsof24" />
+  <component name="RunManager" selected="Application.streamtwo">
+    <configuration name="predicateone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.predicateone" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.*" />
+          <option name="PATTERN" value="java8.predefinedFI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashmapdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframeworks.hashmap.hashmapdemo" />
+    <configuration name="predicatethree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.predicatethree" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframeworks.hashmap.*" />
+          <option name="PATTERN" value="java8.predefinedFI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashmapdemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionframeworks.hashmap.hashmapdemo1" />
+    <configuration name="predicatethree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.predicatethree" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionframeworks.hashmap.*" />
+          <option name="PATTERN" value="java8.predefinedFI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sixmultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.sixmultiple" />
+    <configuration name="streamone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamApi.streamone" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.*" />
+          <option name="PATTERN" value="StreamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticmethods.two" />
+    <configuration name="streamtwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamApi.streamtwo" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="staticmethods.*" />
+          <option name="PATTERN" value="StreamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hashmapdemo1" />
-        <item itemvalue="Application.hashmapdemo" />
-        <item itemvalue="Application.two" />
-        <item itemvalue="Application.factorsof24" />
-        <item itemvalue="Application.sixmultiple" />
+        <item itemvalue="Application.streamtwo" />
+        <item itemvalue="Application.streamone" />
+        <item itemvalue="Application.predicateone" />
+        <item itemvalue="Application.predicatethree (1)" />
+        <item itemvalue="Application.predicatethree" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +297,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/java8/predefinedFI/predicateone.java</url>
+          <line>14</line>
+          <properties class="java8.predefinedFI.predicateone" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
