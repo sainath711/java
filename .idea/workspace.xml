@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="CFW Basics">
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamtwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/UniAdmissions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/functionimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/functionimpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/predicateone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/predicatethree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/predicatetwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/school.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/school1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamstartdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamupper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/upper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +62,9 @@
     "Application.divisibleof35in100.executor": "Run",
     "Application.evennumber.executor": "Run",
     "Application.evenorodd.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.ex2.executor": "Run",
+    "Application.ex3.executor": "Run",
     "Application.factorsof24.executor": "Run",
     "Application.functionimpl.executor": "Run",
     "Application.functionimpl1.executor": "Run",
@@ -90,10 +89,14 @@
     "Application.school.executor": "Run",
     "Application.school1.executor": "Run",
     "Application.sixmultiple.executor": "Run",
+    "Application.streamodd.executor": "Run",
     "Application.streamone.executor": "Run",
+    "Application.streamstartdigit.executor": "Run",
     "Application.streamtwo.executor": "Run",
+    "Application.streamupper.executor": "Run",
     "Application.threedigitnumber.executor": "Run",
     "Application.two.executor": "Run",
+    "Application.upper.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -113,9 +116,9 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.streamtwo">
-    <configuration name="predicateone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.predicateone" />
+  <component name="RunManager" selected="Application.ex3">
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.ex1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="predicatethree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.predicatethree" />
+    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.ex2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="predicatethree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.predicatethree" />
+    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.ex3" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -153,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="streamone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamApi.streamone" />
+    <configuration name="streamupper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamApi.streamupper" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="streamtwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamApi.streamtwo" />
+    <configuration name="upper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamApi.upper" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -181,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.streamtwo" />
-        <item itemvalue="Application.streamone" />
-        <item itemvalue="Application.predicateone" />
-        <item itemvalue="Application.predicatethree (1)" />
-        <item itemvalue="Application.predicatethree" />
+        <item itemvalue="Application.ex3" />
+        <item itemvalue="Application.ex2" />
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.upper" />
+        <item itemvalue="Application.streamupper" />
       </list>
     </recent_temporary>
   </component>
