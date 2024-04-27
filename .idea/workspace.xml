@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="CFW Basics">
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/calc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/calc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/calc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/divpredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/divpredicate1.java" afterDir="false" />
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
+      <change afterPath="$PROJECT_DIR$/src/java8/FI/predined.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/FI/predined1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/FI/predined2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/consume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/function10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/function11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/function12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +59,7 @@
     "Application.calc1Impl.executor": "Run",
     "Application.calc2.executor": "Run",
     "Application.calc3.executor": "Run",
+    "Application.consume.executor": "Run",
     "Application.desendingof3.executor": "Run",
     "Application.divisible236.executor": "Run",
     "Application.divisibleof235.executor": "Run",
@@ -69,6 +72,10 @@
     "Application.ex2.executor": "Run",
     "Application.ex3.executor": "Run",
     "Application.factorsof24.executor": "Run",
+    "Application.function.executor": "Run",
+    "Application.function10.executor": "Run",
+    "Application.function11.executor": "Run",
+    "Application.function12.executor": "Run",
     "Application.functionimpl.executor": "Run",
     "Application.functionimpl1.executor": "Run",
     "Application.generic.executor": "Run",
@@ -88,6 +95,9 @@
     "Application.predicatethree (1).executor": "Run",
     "Application.predicatethree.executor": "Run",
     "Application.predicatetwo.executor": "Run",
+    "Application.predined.executor": "Run",
+    "Application.predined1.executor": "Run",
+    "Application.predined2.executor": "Run",
     "Application.priorityqueue.executor": "Run",
     "Application.school.executor": "Run",
     "Application.school1.executor": "Run",
@@ -119,13 +129,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.divpredicate1">
-    <configuration name="calc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.lamda.calc1" />
+  <component name="RunManager" selected="Application.predined1">
+    <configuration name="function11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.function11" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.lamda.*" />
+          <option name="PATTERN" value="java8.predefinedFI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.lamda.calc2" />
+    <configuration name="function12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.function12" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.lamda.*" />
+          <option name="PATTERN" value="java8.predefinedFI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.lamda.calc3" />
+    <configuration name="predined" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.FI.predined" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.lamda.*" />
+          <option name="PATTERN" value="java8.FI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="divpredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.lamda.divpredicate" />
+    <configuration name="predined1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.FI.predined1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.lamda.*" />
+          <option name="PATTERN" value="java8.FI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="divpredicate1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.lamda.divpredicate1" />
+    <configuration name="predined2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.FI.predined2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.lamda.*" />
+          <option name="PATTERN" value="java8.FI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.divpredicate1" />
-        <item itemvalue="Application.divpredicate" />
-        <item itemvalue="Application.calc3" />
-        <item itemvalue="Application.calc2" />
-        <item itemvalue="Application.calc1" />
+        <item itemvalue="Application.predined1" />
+        <item itemvalue="Application.predined2" />
+        <item itemvalue="Application.predined" />
+        <item itemvalue="Application.function12" />
+        <item itemvalue="Application.function11" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712487301910</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java">
+      <option name="closed" value="true" />
+      <created>1714205251970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714205251970</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +299,8 @@
     <MESSAGE value="Intellij idea: The entire project is converted into Intellij based project." />
     <MESSAGE value="Assignment" />
     <MESSAGE value="CFW Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="CFW Basics" />
+    <MESSAGE value="java" />
+    <option name="LAST_COMMIT_MESSAGE" value="java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
