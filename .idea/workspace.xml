@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="CFW Basics">
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamstartdigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamupper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/upper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/lamda/calc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/lamda/calc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/lamda/calc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/lamda/divpredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/lamda/divpredicate1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +53,16 @@
     "Application.Testtwo.executor": "Run",
     "Application.Two.executor": "Run",
     "Application.assendingof3.executor": "Run",
+    "Application.calc1.executor": "Run",
     "Application.calc1Impl.executor": "Run",
+    "Application.calc2.executor": "Run",
+    "Application.calc3.executor": "Run",
     "Application.desendingof3.executor": "Run",
     "Application.divisible236.executor": "Run",
     "Application.divisibleof235.executor": "Run",
     "Application.divisibleof35in100.executor": "Run",
+    "Application.divpredicate.executor": "Run",
+    "Application.divpredicate1.executor": "Run",
     "Application.evennumber.executor": "Run",
     "Application.evenorodd.executor": "Run",
     "Application.ex1.executor": "Run",
@@ -116,13 +119,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex3">
-    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.ex1" />
+  <component name="RunManager" selected="Application.divpredicate1">
+    <configuration name="calc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lamda.calc1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.predefinedFI.*" />
+          <option name="PATTERN" value="java8.lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.ex2" />
+    <configuration name="calc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lamda.calc2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.predefinedFI.*" />
+          <option name="PATTERN" value="java8.lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.ex3" />
+    <configuration name="calc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lamda.calc3" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.predefinedFI.*" />
+          <option name="PATTERN" value="java8.lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="streamupper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamApi.streamupper" />
+    <configuration name="divpredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lamda.divpredicate" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamApi.*" />
+          <option name="PATTERN" value="java8.lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="upper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamApi.upper" />
+    <configuration name="divpredicate1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lamda.divpredicate1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamApi.*" />
+          <option name="PATTERN" value="java8.lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex3" />
-        <item itemvalue="Application.ex2" />
-        <item itemvalue="Application.ex1" />
-        <item itemvalue="Application.upper" />
-        <item itemvalue="Application.streamupper" />
+        <item itemvalue="Application.divpredicate1" />
+        <item itemvalue="Application.divpredicate" />
+        <item itemvalue="Application.calc3" />
+        <item itemvalue="Application.calc2" />
+        <item itemvalue="Application.calc1" />
       </list>
     </recent_temporary>
   </component>
