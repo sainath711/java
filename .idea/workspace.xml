@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/evenApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evenfor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/consume1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/predefinedFI/predicate1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamplusone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/streamplusone1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +103,8 @@
     "Application.sixmultiple.executor": "Run",
     "Application.streamodd.executor": "Run",
     "Application.streamone.executor": "Run",
+    "Application.streamplusone.executor": "Run",
+    "Application.streamplusone1.executor": "Run",
     "Application.streamstartdigit.executor": "Run",
     "Application.streamtwo.executor": "Run",
     "Application.streamupper.executor": "Run",
@@ -130,20 +130,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.evenfor">
-    <configuration name="consume1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.predefinedFI.consume1" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.predefinedFI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.streamplusone1">
     <configuration name="evenApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StreamApi.evenApi" />
       <module name="java" />
@@ -177,12 +164,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="predined1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.FI.predined1" />
+    <configuration name="streamplusone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamApi.streamplusone" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.FI.*" />
+          <option name="PATTERN" value="StreamApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="streamplusone1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamApi.streamplusone1" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.streamplusone1" />
+        <item itemvalue="Application.streamplusone" />
         <item itemvalue="Application.evenfor" />
         <item itemvalue="Application.evenApi" />
         <item itemvalue="Application.predicate1" />
-        <item itemvalue="Application.consume1" />
-        <item itemvalue="Application.predined1" />
       </list>
     </recent_temporary>
   </component>
