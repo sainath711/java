@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/limit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamApi/sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamof/descending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamof/of1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Application.consume.executor": "Run",
     "Application.consume1.executor": "Run",
     "Application.consumeone.executor": "Run",
+    "Application.descending.executor": "Run",
     "Application.desendingof3.executor": "Run",
     "Application.divisible236.executor": "Run",
     "Application.divisibleof235.executor": "Run",
@@ -94,6 +95,7 @@
     "Application.limit.executor": "Run",
     "Application.multipleof3.executor": "Run",
     "Application.multipleof4.executor": "Run",
+    "Application.of1.executor": "Run",
     "Application.one.executor": "Run",
     "Application.onetoten.executor": "Run",
     "Application.positiveornot.executor": "Run",
@@ -140,13 +142,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.limit">
-    <configuration name="assending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamApi.assending" />
+  <component name="RunManager" selected="Application.Accend">
+    <configuration name="Accend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamof.Accend" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamApi.*" />
+          <option name="PATTERN" value="streamof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lengthTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.lengthTest" />
+    <configuration name="descending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamof.descending" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="streamof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,6 +182,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="of1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamof.of1" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StreamApi.sort" />
       <module name="java" />
@@ -193,26 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.stringLength" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Accend" />
+        <item itemvalue="Application.descending" />
+        <item itemvalue="Application.of1" />
         <item itemvalue="Application.limit" />
         <item itemvalue="Application.sort" />
-        <item itemvalue="Application.assending" />
-        <item itemvalue="Application.stringLength" />
-        <item itemvalue="Application.lengthTest" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714928352397</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="java">
+      <option name="closed" value="true" />
+      <created>1714930164461</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714930164461</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
