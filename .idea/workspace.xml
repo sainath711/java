@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/streamof/startswith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Optional/length.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +91,7 @@
     "Application.gretestof2.executor": "Run",
     "Application.hashmapdemo.executor": "Run",
     "Application.hashmapdemo1.executor": "Run",
+    "Application.length.executor": "Run",
     "Application.lengthTest.executor": "Run",
     "Application.limit.executor": "Run",
     "Application.multipleof3.executor": "Run",
@@ -145,7 +146,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.startswith">
+  <component name="RunManager" selected="Application.length">
     <configuration name="Accend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamof.Accend" />
       <module name="java" />
@@ -159,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="descending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamof.descending" />
+    <configuration name="length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optional.length" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamof.*" />
+          <option name="PATTERN" value="Optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.length" />
         <item itemvalue="Application.startswith" />
         <item itemvalue="Application.secondleast" />
         <item itemvalue="Application.secondhigh" />
         <item itemvalue="Application.Accend" />
-        <item itemvalue="Application.descending" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715081717941</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="java">
+      <option name="closed" value="true" />
+      <created>1715082826641</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715082826641</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
