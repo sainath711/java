@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/streamof/secondhigh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamof/startswith.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,8 +111,10 @@
     "Application.school.executor": "Run",
     "Application.school1.executor": "Run",
     "Application.secondhigh.executor": "Run",
+    "Application.secondleast.executor": "Run",
     "Application.sixmultiple.executor": "Run",
     "Application.sort.executor": "Run",
+    "Application.startswith.executor": "Run",
     "Application.streamodd.executor": "Run",
     "Application.streamone.executor": "Run",
     "Application.streamplusone.executor": "Run",
@@ -143,7 +145,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.secondleast">
+  <component name="RunManager" selected="Application.startswith">
     <configuration name="Accend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamof.Accend" />
       <module name="java" />
@@ -159,19 +161,6 @@
     </configuration>
     <configuration name="descending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamof.descending" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streamof.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="of1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamof.of1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -209,13 +198,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="startswith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamof.startswith" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.startswith" />
         <item itemvalue="Application.secondleast" />
         <item itemvalue="Application.secondhigh" />
         <item itemvalue="Application.Accend" />
         <item itemvalue="Application.descending" />
-        <item itemvalue="Application.of1" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715079913437</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="java">
+      <option name="closed" value="true" />
+      <created>1715081717941</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715081717941</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
