@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/Optional/length.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,12 +129,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -146,13 +147,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.length">
-    <configuration name="Accend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamof.Accend" />
+  <component name="RunManager" selected="Application.one">
+    <configuration name="length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optional.length" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamof.*" />
+          <option name="PATTERN" value="Optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Optional.length" />
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="roman.one" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Optional.*" />
+          <option name="PATTERN" value="roman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,20 +215,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.one" />
         <item itemvalue="Application.length" />
         <item itemvalue="Application.startswith" />
         <item itemvalue="Application.secondleast" />
         <item itemvalue="Application.secondhigh" />
-        <item itemvalue="Application.Accend" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -366,7 +360,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715082826641</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="java">
+      <option name="closed" value="true" />
+      <created>1715084293240</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715084293240</updated>
+    </task>
+    <task id="LOCAL-00018" summary="java">
+      <option name="closed" value="true" />
+      <created>1716741328421</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716741328421</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
