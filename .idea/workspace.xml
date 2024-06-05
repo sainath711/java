@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
+      <change afterPath="$PROJECT_DIR$/src/oops/pillar2/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/pillar2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/pillar2/PE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/pillar2/employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/pillar/oneAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/pillar/oneAbstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/pillar/oneinheritance1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/pillar/oneinheritance1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/pillar/oneinheritance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/pillar/oneinheritance2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/pillar/onemain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/pillar/onemain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/pillar/onencapsul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/pillar/onencapsul.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +160,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.onemain">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.constructor1.Account" />
       <module name="java" />
@@ -175,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inheritance.Demo1" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.pillar2.Demo" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="PATTERN" value="oops.pillar2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.onemain" />
         <item itemvalue="Application.Testone" />
         <item itemvalue="Application.Account" />
         <item itemvalue="Application.c" />
-        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717566136805</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="java">
+      <option name="closed" value="true" />
+      <created>1717571053295</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1717571053295</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
