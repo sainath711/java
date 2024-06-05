@@ -30,7 +30,7 @@ public class onencapsul extends oneAbstract{
     }
 
     @Override
-    public void m1() {
-
+    public int cal_sal() {
+        return 0;
     }
 }
