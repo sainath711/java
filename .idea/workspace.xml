@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/after18/arrayString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/after18/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/after18/hexa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +136,7 @@
     "Application.test.executor": "Run",
     "Application.threedigitnumber.executor": "Run",
     "Application.two.executor": "Run",
+    "Application.twostring.executor": "Run",
     "Application.upper.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -160,7 +159,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.twostring">
+  <component name="RunManager" selected="Application.one">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.pillar2.Demo" />
       <module name="java" />
@@ -187,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="onemain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.pillar.onemain" />
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="after18.one" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.pillar.*" />
+          <option name="PATTERN" value="after18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.one" />
         <item itemvalue="Application.twostring" />
         <item itemvalue="Application.arrayString" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.onemain" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717593631205</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="java">
+      <option name="closed" value="true" />
+      <created>1717657256075</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717657256075</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
