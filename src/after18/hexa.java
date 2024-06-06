@@ -11,5 +11,8 @@ class one{
        B obj=new B();
         System.out.println(obj);
         System.out.println(obj.toString());
+        //checking the object class methods
+        System.out.println(obj.hashCode());
+        System.out.println(obj.getClass());
     }
 }
