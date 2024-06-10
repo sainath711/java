@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/quiz/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz/stringbuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz/stringbuff1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +137,8 @@
     "Application.streamtwo.executor": "Run",
     "Application.streamupper.executor": "Run",
     "Application.stringLength.executor": "Run",
+    "Application.stringbuff.executor": "Run",
+    "Application.stringbuff1.executor": "Run",
     "Application.test.executor": "Run",
     "Application.threedigitnumber.executor": "Run",
     "Application.two.executor": "Run",
@@ -162,7 +165,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.q1">
+  <component name="RunManager" selected="Application.stringbuff">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="langpack.Test" />
       <module name="java" />
@@ -189,19 +192,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="after18.one" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="after18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quiz.q1" />
       <module name="java" />
@@ -215,12 +205,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twostring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="after18.twostring" />
+    <configuration name="stringbuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz.stringbuff" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="after18.*" />
+          <option name="PATTERN" value="quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringbuff1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz.stringbuff1" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.stringbuff" />
+        <item itemvalue="Application.stringbuff1" />
         <item itemvalue="Application.q1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestOne" />
-        <item itemvalue="Application.one" />
-        <item itemvalue="Application.twostring" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717744101161</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="java">
+      <option name="closed" value="true" />
+      <created>1718001715064</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1718001715064</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
