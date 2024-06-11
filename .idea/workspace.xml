@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change beforePath="$PROJECT_DIR$/src/equalsmethod/methodcompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equalsmethod/methodcompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalsmethod/equalsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,7 @@
     "Application.divpredicate.executor": "Run",
     "Application.divpredicate1.executor": "Run",
     "Application.emptynot.executor": "Run",
+    "Application.equalClass3.executor": "Run",
     "Application.equalOprt.executor": "Run",
     "Application.evenApi.executor": "Run",
     "Application.evenfor.executor": "Run",
@@ -167,7 +169,20 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.methodcompare">
+  <component name="RunManager" selected="Application.equalClass3">
+    <configuration name="equalClass3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalsmethod.equalClass3" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="equalsmethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="equalOprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="equalsmethod.equalOprt" />
       <module name="java" />
@@ -220,26 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringbuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quiz.stringbuff" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="quiz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.equalClass3" />
         <item itemvalue="Application.methodcompare" />
         <item itemvalue="Application.equalOprt" />
         <item itemvalue="Application.newstring1" />
         <item itemvalue="Application.newstring" />
-        <item itemvalue="Application.stringbuff" />
       </list>
     </recent_temporary>
   </component>
@@ -547,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718105307329</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="java">
+      <option name="closed" value="true" />
+      <created>1718105521169</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1718105521169</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
