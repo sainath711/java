@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/scp/concat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scp/concat2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,8 @@
     "Application.calc2.executor": "Run",
     "Application.calc3.executor": "Run",
     "Application.concat.executor": "Run",
+    "Application.concat1.executor": "Run",
+    "Application.concat2.executor": "Run",
     "Application.consume.executor": "Run",
     "Application.consume1.executor": "Run",
     "Application.consumeone.executor": "Run",
@@ -144,6 +145,7 @@
     "Application.stringLength.executor": "Run",
     "Application.stringbuff.executor": "Run",
     "Application.stringbuff1.executor": "Run",
+    "Application.stringbuffer.executor": "Run",
     "Application.test.executor": "Run",
     "Application.threedigitnumber.executor": "Run",
     "Application.two.executor": "Run",
@@ -170,7 +172,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.stringbuffer">
+  <component name="RunManager" selected="Application.concat2">
     <configuration name="concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scp.concat" />
       <module name="java" />
@@ -197,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equalClass3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalsmethod.equalClass3" />
+    <configuration name="concat2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scp.concat2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equalsmethod.*" />
+          <option name="PATTERN" value="scp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,8 +212,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodcompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalsmethod.methodcompare" />
+    <configuration name="equalClass3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalsmethod.equalClass3" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -238,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.concat2" />
         <item itemvalue="Application.stringbuffer" />
         <item itemvalue="Application.concat1" />
         <item itemvalue="Application.concat" />
         <item itemvalue="Application.equalClass3" />
-        <item itemvalue="Application.methodcompare" />
       </list>
     </recent_temporary>
   </component>
@@ -566,7 +568,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718106091343</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="java">
+      <option name="closed" value="true" />
+      <created>1718173546586</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1718173546586</updated>
+    </task>
+    <task id="LOCAL-00040" summary="java">
+      <option name="closed" value="true" />
+      <created>1718173668992</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1718173668992</updated>
+    </task>
+    <task id="LOCAL-00041" summary="java">
+      <option name="closed" value="true" />
+      <created>1718173803935</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1718173803935</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
