@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/scp/concat2.java" afterDir="false" />
-    </list>
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +170,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.concat2">
+  <component name="RunManager" selected="Application.concat1">
     <configuration name="concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scp.concat" />
       <module name="java" />
@@ -240,9 +238,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.concat1" />
         <item itemvalue="Application.concat2" />
         <item itemvalue="Application.stringbuffer" />
-        <item itemvalue="Application.concat1" />
         <item itemvalue="Application.concat" />
         <item itemvalue="Application.equalClass3" />
       </list>
@@ -592,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718173803935</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="java">
+      <option name="closed" value="true" />
+      <created>1718174060512</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1718174060512</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
