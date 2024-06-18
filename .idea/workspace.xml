@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/scp/finalequals.java" afterDir="false" />
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="try catch">
+      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/checkArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,8 @@
     "Application.calc1Impl.executor": "Run",
     "Application.calc2.executor": "Run",
     "Application.calc3.executor": "Run",
+    "Application.checkArray.executor": "Run",
+    "Application.checknumber.executor": "Run",
     "Application.concat.executor": "Run",
     "Application.concat1.executor": "Run",
     "Application.concat2.executor": "Run",
@@ -173,7 +175,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.checkArray">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scp.Test" />
       <module name="java" />
@@ -187,12 +189,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scp.concat" />
+    <configuration name="checkArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.checkArray" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scp.*" />
+          <option name="PATTERN" value="Exceptionhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checknumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.checknumber" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exceptionhandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,19 +217,6 @@
     </configuration>
     <configuration name="concat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scp.concat1" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="concat2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scp.concat2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -241,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.checkArray" />
+        <item itemvalue="Application.checknumber" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.stringbuffer" />
         <item itemvalue="Application.concat1" />
-        <item itemvalue="Application.concat2" />
-        <item itemvalue="Application.concat" />
       </list>
     </recent_temporary>
   </component>
@@ -609,7 +611,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718174358143</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="java">
+      <option name="closed" value="true" />
+      <created>1718176201323</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1718176201323</updated>
+    </task>
+    <task id="LOCAL-00045" summary="try catch">
+      <option name="closed" value="true" />
+      <created>1718693089404</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1718693089404</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -640,7 +658,8 @@
     <MESSAGE value="Assignment" />
     <MESSAGE value="CFW Basics" />
     <MESSAGE value="java" />
-    <option name="LAST_COMMIT_MESSAGE" value="java" />
+    <MESSAGE value="try catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="try catch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
