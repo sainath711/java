@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="try catch">
-      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/CheckedAndUnchecked/TestOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/oneFinal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +121,7 @@
     "Application.newstring1.executor": "Run",
     "Application.of1.executor": "Run",
     "Application.one.executor": "Run",
+    "Application.oneFinal.executor": "Run",
     "Application.onemain.executor": "Run",
     "Application.onetoten.executor": "Run",
     "Application.positiveornot.executor": "Run",
@@ -178,26 +179,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.TestOne">
     <configuration name="Exceptionhandling.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptionhandling.Test" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exceptionhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scp.Test" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,6 +206,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.CheckedAndUnchecked.TestOne" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exceptionhandling.CheckedAndUnchecked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="checkArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptionhandling.checkArray" />
       <module name="java" />
@@ -231,8 +232,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checknumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.checknumber" />
+    <configuration name="oneFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.oneFinal" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -246,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestOne" />
+        <item itemvalue="Application.oneFinal" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Exceptionhandling.Test" />
         <item itemvalue="Application.checkArray" />
-        <item itemvalue="Application.checknumber" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -638,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718693473793</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="try catch">
+      <option name="closed" value="true" />
+      <created>1718694691728</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1718694691728</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
