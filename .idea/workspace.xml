@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment=" Uncatched">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptionhandling/CheckedAndUnchecked/TestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptionhandling/CheckedAndUnchecked/TestOne.java" afterDir="false" />
-    </list>
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Codechef" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,142 +32,143 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Accend.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaoiImpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Divisible.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exceptionhandling.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSetPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.One.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamApi.alpha1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestImplOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testfour.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testtwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Two.executor&quot;: &quot;Run&quot;,
-    &quot;Application.alpha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.alpha1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assending.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assendingof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.c.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc1Impl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checkArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checknumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concat1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concat2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.consume.executor&quot;: &quot;Run&quot;,
-    &quot;Application.consume1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.consumeone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.descending.executor&quot;: &quot;Run&quot;,
-    &quot;Application.desendingof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divisible236.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divisibleof235.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divisibleof35in100.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divpredicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divpredicate1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.emptynot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.equalClass3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.equalOprt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evenApi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evenfor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evennumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evenorodd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorsof24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functionimpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functionimpl1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.greatestof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gretestof2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hashmapdemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hashmapdemo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.length.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lengthTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.limit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.methodcompare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multipleof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multipleof4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newstring1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.of1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.one.executor&quot;: &quot;Run&quot;,
-    &quot;Application.oneFinal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.onemain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.onetoten.executor&quot;: &quot;Run&quot;,
-    &quot;Application.positiveornot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicate1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicateone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicatethree (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicatethree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicatetwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predined.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predined1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predined2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priorityqueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.school.executor&quot;: &quot;Run&quot;,
-    &quot;Application.school1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.secondhigh.executor&quot;: &quot;Run&quot;,
-    &quot;Application.secondleast.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sixmultiple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.startswith.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamodd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamplusone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamplusone1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamstartdigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamtwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamupper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringbuff.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringbuff1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringbuffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.threedigitnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.two.executor&quot;: &quot;Run&quot;,
-    &quot;Application.twostring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.upper.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Accend.executor": "Run",
+    "Application.Account.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.Codechef1.executor": "Run",
+    "Application.DaoiImpl.executor": "Run",
+    "Application.Demo (1).executor": "Run",
+    "Application.Demo (2).executor": "Run",
+    "Application.Demo (3).executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.Divisible.executor": "Run",
+    "Application.Exceptionhandling.Test.executor": "Run",
+    "Application.HashSetPractice.executor": "Run",
+    "Application.One.executor": "Run",
+    "Application.StreamApi.alpha1.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.TestImplOne.executor": "Run",
+    "Application.TestOne.executor": "Run",
+    "Application.TestTwo.executor": "Run",
+    "Application.Testfour.executor": "Run",
+    "Application.Testone.executor": "Run",
+    "Application.Testor.executor": "Run",
+    "Application.Testtwo.executor": "Run",
+    "Application.Two.executor": "Run",
+    "Application.alpha.executor": "Run",
+    "Application.alpha1.executor": "Run",
+    "Application.arrayString.executor": "Run",
+    "Application.assending.executor": "Run",
+    "Application.assendingof3.executor": "Run",
+    "Application.c.executor": "Run",
+    "Application.calc1.executor": "Run",
+    "Application.calc1Impl.executor": "Run",
+    "Application.calc2.executor": "Run",
+    "Application.calc3.executor": "Run",
+    "Application.checkArray.executor": "Run",
+    "Application.checknumber.executor": "Run",
+    "Application.concat.executor": "Run",
+    "Application.concat1.executor": "Run",
+    "Application.concat2.executor": "Run",
+    "Application.consume.executor": "Run",
+    "Application.consume1.executor": "Run",
+    "Application.consumeone.executor": "Run",
+    "Application.descending.executor": "Run",
+    "Application.desendingof3.executor": "Run",
+    "Application.divisible236.executor": "Run",
+    "Application.divisibleof235.executor": "Run",
+    "Application.divisibleof35in100.executor": "Run",
+    "Application.divpredicate.executor": "Run",
+    "Application.divpredicate1.executor": "Run",
+    "Application.emptynot.executor": "Run",
+    "Application.equalClass3.executor": "Run",
+    "Application.equalOprt.executor": "Run",
+    "Application.evenApi.executor": "Run",
+    "Application.evenfor.executor": "Run",
+    "Application.evennumber.executor": "Run",
+    "Application.evenorodd.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.ex2.executor": "Run",
+    "Application.ex3.executor": "Run",
+    "Application.factorsof24.executor": "Run",
+    "Application.function.executor": "Run",
+    "Application.function10.executor": "Run",
+    "Application.function11.executor": "Run",
+    "Application.function12.executor": "Run",
+    "Application.functionimpl.executor": "Run",
+    "Application.functionimpl1.executor": "Run",
+    "Application.generic.executor": "Run",
+    "Application.generic1.executor": "Run",
+    "Application.generic2.executor": "Run",
+    "Application.generic3.executor": "Run",
+    "Application.greatestof3.executor": "Run",
+    "Application.gretestof2.executor": "Run",
+    "Application.hashmapdemo.executor": "Run",
+    "Application.hashmapdemo1.executor": "Run",
+    "Application.length.executor": "Run",
+    "Application.lengthTest.executor": "Run",
+    "Application.limit.executor": "Run",
+    "Application.methodcompare.executor": "Run",
+    "Application.multipleof3.executor": "Run",
+    "Application.multipleof4.executor": "Run",
+    "Application.newstring.executor": "Run",
+    "Application.newstring1.executor": "Run",
+    "Application.of1.executor": "Run",
+    "Application.one.executor": "Run",
+    "Application.oneFinal.executor": "Run",
+    "Application.onemain.executor": "Run",
+    "Application.onetoten.executor": "Run",
+    "Application.positiveornot.executor": "Run",
+    "Application.predicate1.executor": "Run",
+    "Application.predicateone.executor": "Run",
+    "Application.predicatethree (1).executor": "Run",
+    "Application.predicatethree.executor": "Run",
+    "Application.predicatetwo.executor": "Run",
+    "Application.predined.executor": "Run",
+    "Application.predined1.executor": "Run",
+    "Application.predined2.executor": "Run",
+    "Application.priorityqueue.executor": "Run",
+    "Application.q1.executor": "Run",
+    "Application.school.executor": "Run",
+    "Application.school1.executor": "Run",
+    "Application.secondhigh.executor": "Run",
+    "Application.secondleast.executor": "Run",
+    "Application.sixmultiple.executor": "Run",
+    "Application.sort.executor": "Run",
+    "Application.startswith.executor": "Run",
+    "Application.streamodd.executor": "Run",
+    "Application.streamone.executor": "Run",
+    "Application.streamplusone.executor": "Run",
+    "Application.streamplusone1.executor": "Run",
+    "Application.streamstartdigit.executor": "Run",
+    "Application.streamtwo.executor": "Run",
+    "Application.streamupper.executor": "Run",
+    "Application.stringLength.executor": "Run",
+    "Application.stringbuff.executor": "Run",
+    "Application.stringbuff1.executor": "Run",
+    "Application.stringbuffer.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.threedigitnumber.executor": "Run",
+    "Application.two.executor": "Run",
+    "Application.twostring.executor": "Run",
+    "Application.upper.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\java" />
@@ -179,26 +177,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Codechef1">
+  <component name="RunManager" selected="Application.condition">
     <configuration name="Codechef1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codechef.Codechef1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codechef.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.Test1" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exceptionhandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,6 +217,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codechef.condition" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codechef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="oneFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptionhandling.oneFinal" />
       <module name="java" />
@@ -247,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.condition" />
         <item itemvalue="Application.Codechef1" />
         <item itemvalue="Application.TestOne" />
         <item itemvalue="Application.TestTwo" />
         <item itemvalue="Application.oneFinal" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -270,14 +268,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712120096012</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Intellij idea: The entire project is converted into Intellij based project.">
-      <option name="closed" value="true" />
-      <created>1712165343156</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1712165343156</updated>
     </task>
     <task id="LOCAL-00002" summary="CFW Basics">
       <option name="closed" value="true" />
@@ -663,7 +653,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718779637616</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Codechef">
+      <option name="closed" value="true" />
+      <created>1718820645361</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1718820645361</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -697,7 +695,8 @@
     <MESSAGE value="try catch" />
     <MESSAGE value=" catched" />
     <MESSAGE value=" Uncatched" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Uncatched" />
+    <MESSAGE value="Codechef" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codechef" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
