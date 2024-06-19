@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="try catch">
-      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/CheckedAndUnchecked/TestOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/oneFinal.java" afterDir="false" />
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment=" catched">
+      <change afterPath="$PROJECT_DIR$/src/Exceptionhandling/CheckedAndUnchecked/TestTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,7 @@
     "Application.Test1.executor": "Run",
     "Application.TestImplOne.executor": "Run",
     "Application.TestOne.executor": "Run",
+    "Application.TestTwo.executor": "Run",
     "Application.Testfour.executor": "Run",
     "Application.Testone.executor": "Run",
     "Application.Testor.executor": "Run",
@@ -179,7 +179,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestOne">
+  <component name="RunManager" selected="Application.TestTwo">
     <configuration name="Exceptionhandling.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptionhandling.Test" />
       <module name="java" />
@@ -219,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.checkArray" />
+    <configuration name="TestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.CheckedAndUnchecked.TestTwo" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptionhandling.*" />
+          <option name="PATTERN" value="Exceptionhandling.CheckedAndUnchecked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestTwo" />
         <item itemvalue="Application.TestOne" />
         <item itemvalue="Application.oneFinal" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Exceptionhandling.Test" />
-        <item itemvalue="Application.checkArray" />
       </list>
     </recent_temporary>
   </component>
@@ -647,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718694691728</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary=" catched">
+      <option name="closed" value="true" />
+      <created>1718778881572</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1718778881572</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +687,8 @@
     <MESSAGE value="CFW Basics" />
     <MESSAGE value="java" />
     <MESSAGE value="try catch" />
-    <option name="LAST_COMMIT_MESSAGE" value="try catch" />
+    <MESSAGE value=" catched" />
+    <option name="LAST_COMMIT_MESSAGE" value=" catched" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
