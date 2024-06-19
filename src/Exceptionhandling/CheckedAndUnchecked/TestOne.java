@@ -13,5 +13,14 @@ public class TestOne {
         catch (FileNotFoundException fe){
             System.out.println(fe.getMessage());
         }
+
+        try {
+            PrintWriter pe = new PrintWriter("TestOne.text");
+            System.out.println("GN");
+        }
+        catch (FileNotFoundException fe){
+            System.out.println(fe.getMessage());
+        }
+
     }
 }
