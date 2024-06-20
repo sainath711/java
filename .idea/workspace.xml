@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Codechef">
-      <change afterPath="$PROJECT_DIR$/src/codechef/weekdays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechef/THALA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.HashSetPractice.executor": "Run",
     "Application.One.executor": "Run",
     "Application.StreamApi.alpha1.executor": "Run",
+    "Application.THALA.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test1.executor": "Run",
     "Application.TestImplOne.executor": "Run",
@@ -182,7 +184,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.weekdays">
+  <component name="RunManager" selected="Application.THALA">
     <configuration name="Codechef1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codechef.Codechef1" />
       <module name="java" />
@@ -196,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptionhandling.CheckedAndUnchecked.TestOne" />
+    <configuration name="THALA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codechef.THALA" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptionhandling.CheckedAndUnchecked.*" />
+          <option name="PATTERN" value="codechef.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.THALA" />
         <item itemvalue="Application.weekdays" />
         <item itemvalue="Application.days" />
         <item itemvalue="Application.condition" />
         <item itemvalue="Application.Codechef1" />
-        <item itemvalue="Application.TestOne" />
       </list>
     </recent_temporary>
   </component>
@@ -273,22 +275,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712120096012</updated>
-    </task>
-    <task id="LOCAL-00005" summary="CFW Basics">
-      <option name="closed" value="true" />
-      <created>1712487301910</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1712487301910</updated>
-    </task>
-    <task id="LOCAL-00006" summary="java">
-      <option name="closed" value="true" />
-      <created>1714205251970</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1714205251970</updated>
     </task>
     <task id="LOCAL-00007" summary="java">
       <option name="closed" value="true" />
@@ -666,7 +652,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718905147587</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Codechef">
+      <option name="closed" value="true" />
+      <created>1718906030507</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1718906030507</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Codechef">
+      <option name="closed" value="true" />
+      <created>1718906102704</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1718906102704</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
