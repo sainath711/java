@@ -2,7 +2,7 @@ package codechef;
 
 import java.util.Scanner;
 
-import java.util.*;
+        //in week 7 days ,a b minus remaining days
 public class weekdays {
     public static void main (String[] args) throws java.lang.Exception
     {
