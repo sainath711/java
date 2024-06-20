@@ -1,5 +1,6 @@
 package codechef;
 import java.util.*;
+        //The weekdays and the codechef practice day wednesday=4 print yes otherwise No
 public class days {
     public static void main (String[] args) throws java.lang.Exception
     {
