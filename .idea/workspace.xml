@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Code chef">
-      <change afterPath="$PROJECT_DIR$/src/clf1/priority/priorityQueue.java" afterDir="false" />
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="priority queue">
+      <change afterPath="$PROJECT_DIR$/src/clf1/priority/priorityqueue2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,6 +142,7 @@
     "Application.predined2.executor": "Run",
     "Application.priorityQueue.executor": "Run",
     "Application.priorityqueue.executor": "Run",
+    "Application.priorityqueue2.executor": "Run",
     "Application.q1.executor": "Run",
     "Application.school.executor": "Run",
     "Application.school1.executor": "Run",
@@ -188,7 +189,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.priorityQueue">
+  <component name="RunManager" selected="Application.priorityqueue2">
     <configuration name="AE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptionhandling.AE" />
       <module name="java" />
@@ -204,19 +205,6 @@
     </configuration>
     <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codechef.Dice" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codechef.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="THALA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codechef.THALA" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -254,13 +242,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="priorityqueue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clf1.priority.priorityqueue2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clf1.priority.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.priorityqueue2" />
         <item itemvalue="Application.priorityQueue" />
         <item itemvalue="Application.ab" />
         <item itemvalue="Application.Dice" />
         <item itemvalue="Application.AE" />
-        <item itemvalue="Application.THALA" />
       </list>
     </recent_temporary>
   </component>
@@ -279,14 +280,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712120096012</updated>
-    </task>
-    <task id="LOCAL-00011" summary="java">
-      <option name="closed" value="true" />
-      <created>1714917558976</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1714917558976</updated>
     </task>
     <task id="LOCAL-00012" summary="java">
       <option name="closed" value="true" />
@@ -672,7 +665,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719063043668</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="priority queue">
+      <option name="closed" value="true" />
+      <created>1719983524660</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1719983524661</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -710,7 +711,8 @@
     <MESSAGE value="THALA for a reason" />
     <MESSAGE value="Arithmetic exception" />
     <MESSAGE value="Code chef" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code chef" />
+    <MESSAGE value="priority queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="priority queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
