@@ -9,5 +9,6 @@ public class example {
         emp.put("name","Rahul");
         emp.put("sal","45000");
         System.out.println(emp);
+        System.out.println(emp.get("name"));
     }
 }
