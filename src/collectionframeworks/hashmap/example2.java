@@ -12,6 +12,7 @@ public class example2 {
         System.out.println(emp.get("name"));
         System.out.println(emp.values());
         System.out.println(emp.keySet());
+        System.out.println(emp.entrySet());
 
     }
 }
