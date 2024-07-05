@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="HashMap">
-      <change afterPath="$PROJECT_DIR$/src/collectionframeworks/hashmap/EmpCrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/FI/Daoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -43,6 +43,7 @@
     "Application.Basic.executor": "Run",
     "Application.Codechef1.executor": "Run",
     "Application.DaoiImpl.executor": "Run",
+    "Application.Daoiimpl.executor": "Run",
     "Application.Demo (1).executor": "Run",
     "Application.Demo (2).executor": "Run",
     "Application.Demo (3).executor": "Run",
@@ -194,7 +195,20 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmpCrud">
+  <component name="RunManager" selected="Application.Daoiimpl">
+    <configuration name="Daoiimpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.FI.Daoiimpl" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterface.FI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmpCrud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collectionframeworks.hashmap.EmpCrud" />
       <module name="java" />
@@ -247,26 +261,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="priorityqueue3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clf1.priority.priorityqueue3" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="clf1.priority.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Daoiimpl" />
         <item itemvalue="Application.EmpCrud" />
         <item itemvalue="Application.example2" />
         <item itemvalue="Application.example3" />
         <item itemvalue="Application.example" />
-        <item itemvalue="Application.priorityqueue3" />
       </list>
     </recent_temporary>
   </component>
@@ -285,14 +286,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712120096012</updated>
-    </task>
-    <task id="LOCAL-00019" summary="java">
-      <option name="closed" value="true" />
-      <created>1717045447498</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1717045447498</updated>
     </task>
     <task id="LOCAL-00020" summary="java">
       <option name="closed" value="true" />
@@ -678,7 +671,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720002819016</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="HashMap">
+      <option name="closed" value="true" />
+      <created>1720003879510</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1720003879510</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
