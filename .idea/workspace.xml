@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Lamda Expression Example">
-      <change afterPath="$PROJECT_DIR$/src/Lamda1/CalcI.java" afterDir="false" />
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Lamda Expression">
+      <change afterPath="$PROJECT_DIR$/src/Lamda1/Daoi4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,9 @@
     "Application.Account.executor": "Run",
     "Application.Basic.executor": "Run",
     "Application.CalcImpl.executor": "Run",
+    "Application.Calcimpl1.executor": "Run",
     "Application.Codechef1.executor": "Run",
+    "Application.Daoi4impl.executor": "Run",
     "Application.DaoiImpl.executor": "Run",
     "Application.Daoiimpl.executor": "Run",
     "Application.Daoiimpl2.executor": "Run",
@@ -199,7 +201,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calcimpl1">
+  <component name="RunManager" selected="Application.Daoi4impl">
     <configuration name="CalcImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lamda1.CalcImpl" />
       <module name="java" />
@@ -226,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Daoiimpl2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.FI.Daoiimpl2" />
+    <configuration name="Daoi4impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lamda1.Daoi4impl" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterface.FI.*" />
+          <option name="PATTERN" value="Lamda1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Daoi4impl" />
         <item itemvalue="Application.Calcimpl1" />
         <item itemvalue="Application.CalcImpl" />
         <item itemvalue="Application.Daoiimpl3 (1)" />
         <item itemvalue="Application.Daoiimpl3" />
-        <item itemvalue="Application.Daoiimpl2" />
       </list>
     </recent_temporary>
   </component>
@@ -290,14 +292,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712120096012</updated>
-    </task>
-    <task id="LOCAL-00024" summary="java">
-      <option name="closed" value="true" />
-      <created>1717522475691</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1717522475691</updated>
     </task>
     <task id="LOCAL-00025" summary="java">
       <option name="closed" value="true" />
@@ -683,7 +677,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720163113090</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Lamda Expression">
+      <option name="closed" value="true" />
+      <created>1720163506447</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1720163506447</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -726,7 +728,8 @@
     <MESSAGE value="Functional Interface Example" />
     <MESSAGE value="Functional Interface Annotation Example" />
     <MESSAGE value="Lamda Expression Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lamda Expression Example" />
+    <MESSAGE value="Lamda Expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lamda Expression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
