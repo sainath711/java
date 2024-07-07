@@ -1,5 +1,5 @@
 package Lamda1;
-
+//Using Lamda
 public interface Daoi41 {
     public abstract void login();
 }
