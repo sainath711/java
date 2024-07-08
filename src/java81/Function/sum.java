@@ -1,4 +1,4 @@
-package java81.pre;
+package java81.Function;
 
 import java.util.function.Function;
 
