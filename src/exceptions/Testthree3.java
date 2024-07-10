@@ -1,6 +1,6 @@
 package exceptions;
 
-class Testthree3{//null pointer exception
+class  Testthree3{//null pointer exception
 	public static void main(String[] args){
 	try{
 	String ename=null;//"sai";
