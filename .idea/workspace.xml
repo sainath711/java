@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Lamda Expression">
+    <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Example Program for Supplier Pre defined Functional Interface">
+      <change afterPath="$PROJECT_DIR$/src/defaultmethods/DaoiImpl1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lamda1/Daoi41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lamda1/Daoi41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultmethods/Daoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/Daoi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,168 +36,184 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Accend.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cal11Impl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cal1impl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalImpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalcImpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calcimpl1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Codechef1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Daoi41impl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Daoi4impl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaoiImpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Daoiimpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Daoiimpl2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Daoiimpl3 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Daoiimpl3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Divisible.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmpCrud.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exceptionhandling.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSetPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.One.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamApi.alpha1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.THALA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestImplOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testfour.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testtwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Two.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ab.executor&quot;: &quot;Run&quot;,
-    &quot;Application.alpha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.alpha1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assending.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assendingof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.c.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc1Impl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calc3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checkArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checknumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concat1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concat2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.consume.executor&quot;: &quot;Run&quot;,
-    &quot;Application.consume1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.consumeone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.days.executor&quot;: &quot;Run&quot;,
-    &quot;Application.descending.executor&quot;: &quot;Run&quot;,
-    &quot;Application.desendingof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divisible236.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divisibleof235.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divisibleof35in100.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divpredicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divpredicate1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.emptynot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.equalClass3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.equalOprt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evenApi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evenfor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evennumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evenorodd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorsof24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.function12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functionimpl.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functionimpl1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.generic3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.greatestof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gretestof2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hashmapdemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hashmapdemo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.length.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lengthTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.limit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.methodcompare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multipleof3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multipleof4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newstring1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.of1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.one.executor&quot;: &quot;Run&quot;,
-    &quot;Application.oneFinal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.onemain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.onetoten.executor&quot;: &quot;Run&quot;,
-    &quot;Application.positiveornot.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicate1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicateone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicatethree (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicatethree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predicatetwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predined.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predined1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.predined2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priorityQueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priorityqueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priorityqueue2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priorityqueue3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.school.executor&quot;: &quot;Run&quot;,
-    &quot;Application.school1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.secondhigh.executor&quot;: &quot;Run&quot;,
-    &quot;Application.secondleast.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sixmultiple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.startswith.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamodd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamplusone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamplusone1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamstartdigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamtwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamupper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringbuff.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringbuff1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stringbuffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.threedigitnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.two.executor&quot;: &quot;Run&quot;,
-    &quot;Application.twostring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.upper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.weekdays.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AE.executor": "Run",
+    "Application.Accend.executor": "Run",
+    "Application.Account.executor": "Run",
+    "Application.ArrayImpl.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.Cal11Impl.executor": "Run",
+    "Application.Cal1impl.executor": "Run",
+    "Application.CalImpl.executor": "Run",
+    "Application.Calc.executor": "Run",
+    "Application.Calc1Impl.executor": "Run",
+    "Application.Calc2.executor": "Run",
+    "Application.CalcImpl.executor": "Run",
+    "Application.Calcimpl1.executor": "Run",
+    "Application.Codechef1.executor": "Run",
+    "Application.Daoi41impl.executor": "Run",
+    "Application.Daoi4impl.executor": "Run",
+    "Application.DaoiImpl.executor": "Run",
+    "Application.DaoiImpl1.executor": "Run",
+    "Application.Daoiimpl.executor": "Run",
+    "Application.Daoiimpl2.executor": "Run",
+    "Application.Daoiimpl3 (1).executor": "Run",
+    "Application.Daoiimpl3.executor": "Run",
+    "Application.DateTimeDemo.executor": "Run",
+    "Application.Demo (1).executor": "Run",
+    "Application.Demo (2).executor": "Run",
+    "Application.Demo (3).executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.Dice.executor": "Run",
+    "Application.Divisible.executor": "Run",
+    "Application.EmpCrud.executor": "Run",
+    "Application.Exceptionhandling.Test.executor": "Run",
+    "Application.HashSetPractice.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.One.executor": "Run",
+    "Application.StreamApi.alpha1.executor": "Run",
+    "Application.THALA.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.TestImplOne.executor": "Run",
+    "Application.TestOne.executor": "Run",
+    "Application.TestTwo.executor": "Run",
+    "Application.Testfour.executor": "Run",
+    "Application.Testone.executor": "Run",
+    "Application.Testor.executor": "Run",
+    "Application.Testtwo.executor": "Run",
+    "Application.Two.executor": "Run",
+    "Application.Upper.executor": "Run",
+    "Application.UpperCase.executor": "Run",
+    "Application.Upperimpl.executor": "Run",
+    "Application.ab.executor": "Run",
+    "Application.agePrint.executor": "Run",
+    "Application.alpha.executor": "Run",
+    "Application.alpha1.executor": "Run",
+    "Application.arrayString.executor": "Run",
+    "Application.arraylist.executor": "Run",
+    "Application.assending.executor": "Run",
+    "Application.assendingof3.executor": "Run",
+    "Application.c.executor": "Run",
+    "Application.calc1.executor": "Run",
+    "Application.calc1Impl.executor": "Run",
+    "Application.calc2.executor": "Run",
+    "Application.calc3.executor": "Run",
+    "Application.checkArray.executor": "Run",
+    "Application.checknumber.executor": "Run",
+    "Application.concat.executor": "Run",
+    "Application.concat1.executor": "Run",
+    "Application.concat2.executor": "Run",
+    "Application.condition.executor": "Run",
+    "Application.consume.executor": "Run",
+    "Application.consume1.executor": "Run",
+    "Application.consumeone.executor": "Run",
+    "Application.counting.executor": "Run",
+    "Application.days.executor": "Run",
+    "Application.descending.executor": "Run",
+    "Application.desendingof3.executor": "Run",
+    "Application.divisible236.executor": "Run",
+    "Application.divisibleof235.executor": "Run",
+    "Application.divisibleof35in100.executor": "Run",
+    "Application.divpredicate.executor": "Run",
+    "Application.divpredicate1.executor": "Run",
+    "Application.emptynot.executor": "Run",
+    "Application.equalClass3.executor": "Run",
+    "Application.equalOprt.executor": "Run",
+    "Application.evenApi.executor": "Run",
+    "Application.evenfor.executor": "Run",
+    "Application.evennumber.executor": "Run",
+    "Application.evenorodd.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.ex2.executor": "Run",
+    "Application.ex3.executor": "Run",
+    "Application.example.executor": "Run",
+    "Application.example2.executor": "Run",
+    "Application.example3.executor": "Run",
+    "Application.factorsof24.executor": "Run",
+    "Application.funImpl.executor": "Run",
+    "Application.function.executor": "Run",
+    "Application.function10.executor": "Run",
+    "Application.function11.executor": "Run",
+    "Application.function12.executor": "Run",
+    "Application.functionimpl.executor": "Run",
+    "Application.functionimpl1.executor": "Run",
+    "Application.generic.executor": "Run",
+    "Application.generic1.executor": "Run",
+    "Application.generic2.executor": "Run",
+    "Application.generic3.executor": "Run",
+    "Application.greatestof3.executor": "Run",
+    "Application.gretestof2.executor": "Run",
+    "Application.hashmapdemo.executor": "Run",
+    "Application.hashmapdemo1.executor": "Run",
+    "Application.length.executor": "Run",
+    "Application.lengthTest.executor": "Run",
+    "Application.limit.executor": "Run",
+    "Application.methodcompare.executor": "Run",
+    "Application.multipleof3.executor": "Run",
+    "Application.multipleof4.executor": "Run",
+    "Application.newstring.executor": "Run",
+    "Application.newstring1.executor": "Run",
+    "Application.of1.executor": "Run",
+    "Application.one.executor": "Run",
+    "Application.oneFinal.executor": "Run",
+    "Application.onemain.executor": "Run",
+    "Application.onetoten.executor": "Run",
+    "Application.positiveornot.executor": "Run",
+    "Application.predicate1.executor": "Run",
+    "Application.predicateone.executor": "Run",
+    "Application.predicatethree (1).executor": "Run",
+    "Application.predicatethree.executor": "Run",
+    "Application.predicatetwo.executor": "Run",
+    "Application.predined.executor": "Run",
+    "Application.predined1.executor": "Run",
+    "Application.predined2.executor": "Run",
+    "Application.priorityQueue.executor": "Run",
+    "Application.priorityqueue.executor": "Run",
+    "Application.priorityqueue2.executor": "Run",
+    "Application.priorityqueue3.executor": "Run",
+    "Application.q1.executor": "Run",
+    "Application.school.executor": "Run",
+    "Application.school1.executor": "Run",
+    "Application.secondhigh.executor": "Run",
+    "Application.secondleast.executor": "Run",
+    "Application.sixmultiple.executor": "Run",
+    "Application.smallimpl.executor": "Run",
+    "Application.sort.executor": "Run",
+    "Application.startswith.executor": "Run",
+    "Application.streamodd.executor": "Run",
+    "Application.streamone.executor": "Run",
+    "Application.streamplusone.executor": "Run",
+    "Application.streamplusone1.executor": "Run",
+    "Application.streamstartdigit.executor": "Run",
+    "Application.streamtwo.executor": "Run",
+    "Application.streamupper.executor": "Run",
+    "Application.stringLength.executor": "Run",
+    "Application.stringbuff.executor": "Run",
+    "Application.stringbuff1.executor": "Run",
+    "Application.stringbuffer.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.threedigitnumber.executor": "Run",
+    "Application.two.executor": "Run",
+    "Application.twostring.executor": "Run",
+    "Application.upper.executor": "Run",
+    "Application.weekdays.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\java" />
@@ -205,13 +222,13 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cal11Impl">
-    <configuration name="Cal11Impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lamda1.Cal11Impl" />
+  <component name="RunManager" selected="Application.DaoiImpl1">
+    <configuration name="DaoiImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="defaultmethods.DaoiImpl" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lamda1.*" />
+          <option name="PATTERN" value="defaultmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cal1impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lamda1.Cal1impl" />
+    <configuration name="DaoiImpl1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="defaultmethods.DaoiImpl1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lamda1.*" />
+          <option name="PATTERN" value="defaultmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lamda1.CalImpl" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java81.Supplier.Demo" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lamda1.*" />
+          <option name="PATTERN" value="java81.Supplier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Daoi41impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lamda1.Daoi41impl" />
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateTimeAPI.LeapYear" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lamda1.*" />
+          <option name="PATTERN" value="DateTimeAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Daoi4impl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lamda1.Daoi4impl" />
+    <configuration name="agePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateTimeAPI.agePrint" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lamda1.*" />
+          <option name="PATTERN" value="DateTimeAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cal11Impl" />
-        <item itemvalue="Application.Cal1impl" />
-        <item itemvalue="Application.CalImpl" />
-        <item itemvalue="Application.Daoi41impl" />
-        <item itemvalue="Application.Daoi4impl" />
+        <item itemvalue="Application.DaoiImpl1" />
+        <item itemvalue="Application.DaoiImpl" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.agePrint" />
       </list>
     </recent_temporary>
   </component>
@@ -296,150 +313,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712120096012</updated>
-    </task>
-    <task id="LOCAL-00030" summary="java">
-      <option name="closed" value="true" />
-      <created>1717657905817</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1717657905817</updated>
-    </task>
-    <task id="LOCAL-00031" summary="java">
-      <option name="closed" value="true" />
-      <created>1717743021433</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1717743021433</updated>
-    </task>
-    <task id="LOCAL-00032" summary="java">
-      <option name="closed" value="true" />
-      <created>1717744101161</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1717744101161</updated>
-    </task>
-    <task id="LOCAL-00033" summary="java">
-      <option name="closed" value="true" />
-      <created>1718001715064</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1718001715064</updated>
-    </task>
-    <task id="LOCAL-00034" summary="java">
-      <option name="closed" value="true" />
-      <created>1718002499862</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1718002499862</updated>
-    </task>
-    <task id="LOCAL-00035" summary="java">
-      <option name="closed" value="true" />
-      <created>1718102697575</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1718102697575</updated>
-    </task>
-    <task id="LOCAL-00036" summary="java">
-      <option name="closed" value="true" />
-      <created>1718105307329</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1718105307329</updated>
-    </task>
-    <task id="LOCAL-00037" summary="java">
-      <option name="closed" value="true" />
-      <created>1718105521169</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1718105521169</updated>
-    </task>
-    <task id="LOCAL-00038" summary="java">
-      <option name="closed" value="true" />
-      <created>1718106091343</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1718106091343</updated>
-    </task>
-    <task id="LOCAL-00039" summary="java">
-      <option name="closed" value="true" />
-      <created>1718173546586</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1718173546586</updated>
-    </task>
-    <task id="LOCAL-00040" summary="java">
-      <option name="closed" value="true" />
-      <created>1718173668992</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1718173668992</updated>
-    </task>
-    <task id="LOCAL-00041" summary="java">
-      <option name="closed" value="true" />
-      <created>1718173803935</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1718173803935</updated>
-    </task>
-    <task id="LOCAL-00042" summary="java">
-      <option name="closed" value="true" />
-      <created>1718174060512</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1718174060512</updated>
-    </task>
-    <task id="LOCAL-00043" summary="java">
-      <option name="closed" value="true" />
-      <created>1718174358143</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1718174358143</updated>
-    </task>
-    <task id="LOCAL-00044" summary="java">
-      <option name="closed" value="true" />
-      <created>1718176201323</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1718176201323</updated>
-    </task>
-    <task id="LOCAL-00045" summary="try catch">
-      <option name="closed" value="true" />
-      <created>1718693089404</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1718693089404</updated>
-    </task>
-    <task id="LOCAL-00046" summary="try catch">
-      <option name="closed" value="true" />
-      <created>1718693473793</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1718693473793</updated>
-    </task>
-    <task id="LOCAL-00047" summary="try catch">
-      <option name="closed" value="true" />
-      <created>1718694691728</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1718694691728</updated>
     </task>
     <task id="LOCAL-00048" summary=" catched">
       <option name="closed" value="true" />
@@ -689,7 +562,151 @@
       <option name="project" value="LOCAL" />
       <updated>1720242000554</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Lamda Expression">
+      <option name="closed" value="true" />
+      <created>1720371498437</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1720371498437</updated>
+    </task>
+    <task id="LOCAL-00080" summary="without Lamda Expression">
+      <option name="closed" value="true" />
+      <created>1720424225987</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1720424225989</updated>
+    </task>
+    <task id="LOCAL-00081" summary="with Lamda Expression">
+      <option name="closed" value="true" />
+      <created>1720424265520</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1720424265520</updated>
+    </task>
+    <task id="LOCAL-00082" summary="with predefined functional Interface Expression">
+      <option name="closed" value="true" />
+      <created>1720424302073</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1720424302073</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Predicate, Predifined Functional interfacce">
+      <option name="closed" value="true" />
+      <created>1720424393963</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1720424393963</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Function, Predifined Functional interfacce">
+      <option name="closed" value="true" />
+      <created>1720424415757</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1720424415757</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Function, Predifined Functional interfacce">
+      <option name="closed" value="true" />
+      <created>1720425470396</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1720425470396</updated>
+    </task>
+    <task id="LOCAL-00086" summary="ArrayList Predicate, Predifined Functional interfacce">
+      <option name="closed" value="true" />
+      <created>1720425516044</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1720425516045</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Function, Predifined Functional interfacce">
+      <option name="closed" value="true" />
+      <created>1720545168242</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1720545168243</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Function, Predifined Functional interfacce">
+      <option name="closed" value="true" />
+      <created>1720545176960</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1720545176960</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Function, Predifined Functional interfacce">
+      <option name="closed" value="true" />
+      <created>1720545191914</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1720545191915</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Without Lamda Expression">
+      <option name="closed" value="true" />
+      <created>1720545219448</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1720545219448</updated>
+    </task>
+    <task id="LOCAL-00091" summary="printing the count which input is Greater than 10">
+      <option name="closed" value="true" />
+      <created>1720545466856</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1720545466856</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Date and Time">
+      <option name="closed" value="true" />
+      <created>1720593466590</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1720593466590</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Printing The Age">
+      <option name="closed" value="true" />
+      <created>1720632823762</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1720632823762</updated>
+    </task>
+    <task id="LOCAL-00094" summary="To know the year is Leap year or not">
+      <option name="closed" value="true" />
+      <created>1720632863173</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1720632863173</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Exception handling">
+      <option name="closed" value="true" />
+      <created>1720632887862</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1720632887862</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Example Program for Supplier Pre defined Functional Interface">
+      <option name="closed" value="true" />
+      <created>1720633548585</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1720633548585</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -716,11 +733,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Intellij idea: The entire project is converted into Intellij based project." />
-    <MESSAGE value="Assignment" />
-    <MESSAGE value="CFW Basics" />
-    <MESSAGE value="java" />
-    <MESSAGE value="try catch" />
     <MESSAGE value=" catched" />
     <MESSAGE value=" Uncatched" />
     <MESSAGE value="Codechef" />
@@ -732,9 +744,21 @@
     <MESSAGE value="Functional Interface Example" />
     <MESSAGE value="Functional Interface Annotation Example" />
     <MESSAGE value="Lamda Expression Example" />
-    <MESSAGE value="without Lamda Expression" />
     <MESSAGE value="Lamda Expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lamda Expression" />
+    <MESSAGE value="without Lamda Expression" />
+    <MESSAGE value="with Lamda Expression" />
+    <MESSAGE value="with predefined functional Interface Expression" />
+    <MESSAGE value="Predicate, Predifined Functional interfacce" />
+    <MESSAGE value="ArrayList Predicate, Predifined Functional interfacce" />
+    <MESSAGE value="Function, Predifined Functional interfacce" />
+    <MESSAGE value="Without Lamda Expression" />
+    <MESSAGE value="printing the count which input is Greater than 10" />
+    <MESSAGE value="Date and Time" />
+    <MESSAGE value="Printing The Age" />
+    <MESSAGE value="To know the year is Leap year or not" />
+    <MESSAGE value="Exception handling" />
+    <MESSAGE value="Example Program for Supplier Pre defined Functional Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example Program for Supplier Pre defined Functional Interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
