@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a86081b7-93a0-4656-8a6c-3cb53910958b" name="Changes" comment="Example for Default Methods">
-      <change afterPath="$PROJECT_DIR$/src/defaultmethods/dfex/Daoi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticmethods/staticex/Daoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,6 +183,7 @@
     "Application.smallimpl.executor": "Run",
     "Application.sort.executor": "Run",
     "Application.startswith.executor": "Run",
+    "Application.staticmethods.staticex.Daoimpl.executor": "Run",
     "Application.streamodd.executor": "Run",
     "Application.streamone.executor": "Run",
     "Application.streamplusone.executor": "Run",
@@ -222,7 +223,7 @@
       <recent name="C:\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Daoimpl">
+  <component name="RunManager" selected="Application.staticmethods.staticex.Daoimpl">
     <configuration name="DaoiImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="defaultmethods.DaoiImpl" />
       <module name="java" />
@@ -275,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DateTimeAPI.LeapYear" />
+    <configuration name="staticmethods.staticex.Daoimpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticmethods.staticex.Daoimpl" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DateTimeAPI.*" />
+          <option name="PATTERN" value="staticmethods.staticex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.staticmethods.staticex.Daoimpl" />
         <item itemvalue="Application.Daoimpl" />
         <item itemvalue="Application.DaoiImpl1" />
         <item itemvalue="Application.DaoiImpl" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -313,14 +314,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712120096012</updated>
-    </task>
-    <task id="LOCAL-00049" summary=" Uncatched">
-      <option name="closed" value="true" />
-      <created>1718779637616</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1718779637616</updated>
     </task>
     <task id="LOCAL-00050" summary="Codechef">
       <option name="closed" value="true" />
@@ -706,7 +699,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720680952731</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Example for Default Methods">
+      <option name="closed" value="true" />
+      <created>1720761043249</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1720761043250</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
