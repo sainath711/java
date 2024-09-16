@@ -8,5 +8,7 @@ public class multipleParameters {
     public static void main(String[] args) {
         m1("Sai", 10);
         m1("Ramani",12);
+        /*m1("Ramu");required: java.lang.String,int
+                     found:    java.lang.String     */
     }
 }
