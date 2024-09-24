@@ -6,6 +6,6 @@ public class main {
         obj.Eat();
         obj.Run();
         obj.Jump();
-        
+
     }
 }
