@@ -5,5 +5,7 @@ class Testone{
 		//byte a=128; byte range is -128 to 127 
 		byte a=127;
 		System.out.println(a);
+//		byte b=128;
+//		System.out.println(b);
 	}
 }
