@@ -14,17 +14,18 @@ public class example3 {
         product.put("color","Red");
         product.put("avail","true");
         System.out.println(product);
-        System.out.println(product.keySet());
-        Set<String> keys=product.keySet();
-        System.out.println("Display values using keyset");
+    System.out.println(product.keySet());
+    Set<String> keys=product.keySet();
+       System.out.println("Display values using keyset:");
         for (String key:keys) {
             System.out.println(key+":"+product.get(key));
         }
-        System.out.println("Display values using values");
+       System.out.println("Display values using values:");
         Collection<String> values=product.values();
+        System.out.println(values);
         for (String value:values){
             System.out.println(value);
         }
 
-    }
+  }
 }
