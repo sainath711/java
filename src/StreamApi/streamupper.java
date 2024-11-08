@@ -13,6 +13,7 @@ public class streamupper {
         enames.add("raju");
         enames.add("khanna");
         enames.add("manju");
+        enames.add("raja");
         System.out.println(enames);
         List<String> upper=enames.stream().sorted().map(name->name.toUpperCase()).collect(Collectors.toList());
         System.out.println(upper);
