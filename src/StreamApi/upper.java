@@ -12,6 +12,7 @@ public class upper {
         enames.add("raju");
         enames.add("khanna");
         enames.add("manju");
+        enames.add("Raja");
         System.out.println(enames);
         List<String> users=new ArrayList<String>();
         Collections.sort(enames);
